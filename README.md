@@ -1,2 +1,3 @@
 # Project---HR-Analytics-AND-Ecommerce-Return-Rate-Reduction-Analysis
-HR Analytics project to predict employee attrition using Python (EDA, ML models, SHAP) and Power BI visualizations. Deliverables include a classification model, confusion matrix, Power BI dashboard, and prevention suggestions PDF.
+Data Analytics projects, including HR Analytics – Predicting Employee Attrition and E-commerce Analytics – Customer & Sales Insights.
+Both projects involve data cleaning, EDA, machine learning models, Power BI dashboards, and actionable business recommendations.
